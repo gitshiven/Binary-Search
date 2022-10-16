@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//creating function
+//function
  int binary_search(int arr[], int n, int key){
      //Implement binary search
      int s=0;
