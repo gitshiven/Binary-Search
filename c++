@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//function
  int binary_search(int arr[], int n, int key){
      //Implement binary search
      int s=0;
@@ -18,6 +19,7 @@ using namespace std;
      }
      return -1;
  }
+ //driver code
  int main(){
      int arr[]= {10,20,30,40,45,60,70,89};
      int n= sizeof(arr)/sizeof(int);
