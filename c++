@@ -1,3 +1,5 @@
+//Code in Cpp
+**************
 #include <iostream>
 using namespace std;
 //creating function
@@ -34,3 +36,4 @@ using namespace std;
         }
         return 0;
      }
+     **************
